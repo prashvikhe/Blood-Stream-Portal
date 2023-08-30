@@ -18,8 +18,7 @@ BloodStream is an online platform that allows blood receivers to find and contac
   - Sass
 
 ---
-Developed with ❤️️ by
-  - Ajay Andhale
-  - Vinay Patil
-  - Vishal Patil
+Developed️ by
+  - Sushant Bhor
+  - Prashant Vikhe
   
