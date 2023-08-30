@@ -1,0 +1,10 @@
+{
+  "title": "BloodStream",
+  "basename": "/",
+  "api": "http://localhost:3001/api",
+  "url": "#",
+  "developers": [
+    "Sushant Bhor",
+    "Prashant Vikhe"
+  ]
+}

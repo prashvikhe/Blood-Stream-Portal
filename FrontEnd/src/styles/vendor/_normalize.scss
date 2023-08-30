@@ -1,0 +1,113 @@
+/* Update colors and fonts */
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  background-color: #f0f0f0; /* Change background color */
+  font-family: Arial, sans-serif; /* Change font family */
+}
+
+/* Update body margin */
+body {
+  margin: 20px; /* Change margin */
+}
+
+/* Update h1 styles */
+h1 {
+  font-size: 2.5em; /* Increase font size */
+  margin: 0.5em 0; /* Adjust margin */
+  color: #0078d4; /* Change text color */
+}
+
+/* Update links */
+a {
+  background-color: transparent;
+  color: #4caf50; /* Change link color */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Update buttons */
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  background-color: #0078d4; /* Change button background color */
+  color: #fff; /* Change button text color */
+  border: none; /* Remove border */
+  padding: 10px 20px; /* Adjust padding */
+  cursor: pointer; /* Add pointer cursor */
+}
+
+/* Update forms */
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: Arial, sans-serif; /* Change font family */
+  font-size: 1.2em; /* Increase font size */
+}
+
+/* Update small text */
+small {
+  font-size: 90%; /* Decrease font size */
+}
+
+/* Update the legend */
+legend {
+  color: #333; /* Change legend text color */
+}
+
+/* Update progress bar */
+progress {
+  background-color: #ddd; /* Change progress bar background color */
+}
+
+/* Update textareas */
+textarea {
+  background-color: #f9f9f9; /* Change textarea background color */
+}
+
+/* Update checkboxes and radio buttons */
+[type="checkbox"],
+[type="radio"] {
+  margin-right: 5px; /* Adjust margin */
+}
+
+/* Update search input */
+[type="search"] {
+  background-color: #fff; /* Change search input background color */
+  border: 1px solid #ddd; /* Add border */
+  border-radius: 5px; /* Add border radius */
+  padding: 5px; /* Adjust padding */
+}
+
+/* Update file upload button */
+::-webkit-file-upload-button {
+  background-color: #0078d4;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Update details and summary */
+details {
+  border: 1px solid #ddd; /* Add border */
+  padding: 10px; /* Adjust padding */
+  margin: 10px 0; /* Adjust margin */
+  background-color: #f9f9f9; /* Change background color */
+}
+
+summary {
+  cursor: pointer;
+}
+
+/* Update miscellaneous */
+template {
+  display: none;
+}
+
+[hidden] {
+  display: none;
+}
